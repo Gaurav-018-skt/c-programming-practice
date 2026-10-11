@@ -1,3 +1,5 @@
+// Armstrong Number Checker
+// This program checks whether a number is an Armstrong number.
 #include<stdio.h>
 #include<math.h>
 int main()
